@@ -1,2 +1,5 @@
 # viedo_transpote_using_ffmpeg
 使用ffmpeg将视频逆时针旋转九十度而不对视频进行编码，以用来将横向的视频变成竖向的视频
+使用时先将inputdir(输入文件夹)变量改为原视频所在文件夹;outputdir(输出文件夹)变量改为逆时针旋转后的视频视频要存的文件夹
+记得注意加上引号,路径的 / 记得不要写成 \
+只在windows下做过测试,linux和macos没试过估计不能用
