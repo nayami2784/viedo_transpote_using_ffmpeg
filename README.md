@@ -1,2 +1,2 @@
 # viedo_transpote_using_ffmpeg
-使用ffmpeg将横向视频逆时针旋转九十度，以用来
+使用ffmpeg将视频逆时针旋转九十度而不对视频进行编码，以用来将横向的视频变成竖向的视频
